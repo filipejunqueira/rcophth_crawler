@@ -1,0 +1,13 @@
+ca 16
+pi 16
+pm 18
+ps 25
+ss 16
+hpdp 12
+c 14
+ih 9
+bcs 17
+aer 16
+dmcrj 5
+hs 10
+cpd 7
